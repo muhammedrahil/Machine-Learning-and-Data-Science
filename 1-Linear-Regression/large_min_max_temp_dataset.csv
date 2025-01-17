@@ -1,0 +1,1001 @@
+Day,Date,Min Temp (°C),Max Temp (°C),Location
+Wednesday,2025-01-01,-9,7,Los Angeles
+Thursday,2025-01-02,3,14,Houston
+Friday,2025-01-03,4,19,Los Angeles
+Saturday,2025-01-04,-3,17,New York
+Sunday,2025-01-05,-4,9,Los Angeles
+Monday,2025-01-06,5,16,Los Angeles
+Tuesday,2025-01-07,8,15,Chicago
+Wednesday,2025-01-08,13,22,Houston
+Thursday,2025-01-09,2,8,Houston
+Friday,2025-01-10,2,8,Los Angeles
+Saturday,2025-01-11,9,26,New York
+Sunday,2025-01-12,14,23,Los Angeles
+Monday,2025-01-13,-2,5,Los Angeles
+Tuesday,2025-01-14,-1,15,Los Angeles
+Wednesday,2025-01-15,-7,8,Chicago
+Thursday,2025-01-16,-7,6,New York
+Friday,2025-01-17,14,23,Phoenix
+Saturday,2025-01-18,0,12,Chicago
+Sunday,2025-01-19,-4,14,Phoenix
+Monday,2025-01-20,13,21,Chicago
+Tuesday,2025-01-21,-5,8,Los Angeles
+Wednesday,2025-01-22,8,14,Houston
+Thursday,2025-01-23,3,17,Los Angeles
+Friday,2025-01-24,13,30,Los Angeles
+Saturday,2025-01-25,-1,15,Chicago
+Sunday,2025-01-26,-6,6,Houston
+Monday,2025-01-27,0,17,Chicago
+Tuesday,2025-01-28,15,31,Phoenix
+Wednesday,2025-01-29,12,32,New York
+Thursday,2025-01-30,-4,8,Phoenix
+Friday,2025-01-31,4,18,New York
+Saturday,2025-02-01,5,13,Los Angeles
+Sunday,2025-02-02,-2,8,Phoenix
+Monday,2025-02-03,4,21,Chicago
+Tuesday,2025-02-04,-4,15,Houston
+Wednesday,2025-02-05,-7,8,Houston
+Thursday,2025-02-06,14,31,Los Angeles
+Friday,2025-02-07,-3,6,Phoenix
+Saturday,2025-02-08,11,19,Chicago
+Sunday,2025-02-09,15,27,Los Angeles
+Monday,2025-02-10,-9,9,Phoenix
+Tuesday,2025-02-11,-10,8,Los Angeles
+Wednesday,2025-02-12,11,28,Chicago
+Thursday,2025-02-13,-2,9,Chicago
+Friday,2025-02-14,-10,6,Phoenix
+Saturday,2025-02-15,3,8,Houston
+Sunday,2025-02-16,3,9,Houston
+Monday,2025-02-17,7,19,Chicago
+Tuesday,2025-02-18,8,26,Phoenix
+Wednesday,2025-02-19,-3,11,New York
+Thursday,2025-02-20,-6,14,Chicago
+Friday,2025-02-21,8,27,Los Angeles
+Saturday,2025-02-22,-3,7,New York
+Sunday,2025-02-23,-10,-1,Houston
+Monday,2025-02-24,-5,13,Houston
+Tuesday,2025-02-25,7,12,Los Angeles
+Wednesday,2025-02-26,9,14,Phoenix
+Thursday,2025-02-27,3,21,Los Angeles
+Friday,2025-02-28,1,13,Los Angeles
+Saturday,2025-03-01,11,25,Los Angeles
+Sunday,2025-03-02,7,22,Los Angeles
+Monday,2025-03-03,-2,12,Los Angeles
+Tuesday,2025-03-04,15,23,New York
+Wednesday,2025-03-05,-1,4,Chicago
+Thursday,2025-03-06,-1,12,Houston
+Friday,2025-03-07,3,15,New York
+Saturday,2025-03-08,-3,11,New York
+Sunday,2025-03-09,-10,-5,New York
+Monday,2025-03-10,15,33,New York
+Tuesday,2025-03-11,-10,5,Houston
+Wednesday,2025-03-12,-10,2,Houston
+Thursday,2025-03-13,-6,2,New York
+Friday,2025-03-14,9,28,Los Angeles
+Saturday,2025-03-15,-7,11,Los Angeles
+Sunday,2025-03-16,13,20,Los Angeles
+Monday,2025-03-17,7,20,Phoenix
+Tuesday,2025-03-18,7,22,Los Angeles
+Wednesday,2025-03-19,-10,9,Los Angeles
+Thursday,2025-03-20,15,23,Phoenix
+Friday,2025-03-21,0,20,Los Angeles
+Saturday,2025-03-22,-5,4,Phoenix
+Sunday,2025-03-23,12,29,Chicago
+Monday,2025-03-24,5,25,Los Angeles
+Tuesday,2025-03-25,8,23,Phoenix
+Wednesday,2025-03-26,5,11,Phoenix
+Thursday,2025-03-27,13,26,Houston
+Friday,2025-03-28,1,16,Phoenix
+Saturday,2025-03-29,15,34,Los Angeles
+Sunday,2025-03-30,6,23,Chicago
+Monday,2025-03-31,14,28,Chicago
+Tuesday,2025-04-01,12,21,New York
+Wednesday,2025-04-02,11,27,Houston
+Thursday,2025-04-03,-8,5,Los Angeles
+Friday,2025-04-04,14,31,Chicago
+Saturday,2025-04-05,13,28,Chicago
+Sunday,2025-04-06,6,24,Houston
+Monday,2025-04-07,0,6,Los Angeles
+Tuesday,2025-04-08,-3,8,Chicago
+Wednesday,2025-04-09,7,22,Houston
+Thursday,2025-04-10,-10,-5,Phoenix
+Friday,2025-04-11,6,16,Los Angeles
+Saturday,2025-04-12,6,25,Chicago
+Sunday,2025-04-13,2,8,Phoenix
+Monday,2025-04-14,-6,0,New York
+Tuesday,2025-04-15,3,11,New York
+Wednesday,2025-04-16,-9,-4,Chicago
+Thursday,2025-04-17,12,20,Houston
+Friday,2025-04-18,-4,16,Los Angeles
+Saturday,2025-04-19,0,19,Phoenix
+Sunday,2025-04-20,0,17,New York
+Monday,2025-04-21,6,15,Chicago
+Tuesday,2025-04-22,15,28,Chicago
+Wednesday,2025-04-23,14,31,Los Angeles
+Thursday,2025-04-24,14,30,New York
+Friday,2025-04-25,10,26,Houston
+Saturday,2025-04-26,-10,0,Los Angeles
+Sunday,2025-04-27,5,12,Houston
+Monday,2025-04-28,-2,14,Chicago
+Tuesday,2025-04-29,13,23,Los Angeles
+Wednesday,2025-04-30,-8,7,Phoenix
+Thursday,2025-05-01,3,14,Chicago
+Friday,2025-05-02,10,27,Phoenix
+Saturday,2025-05-03,5,25,New York
+Sunday,2025-05-04,13,22,Chicago
+Monday,2025-05-05,5,24,Chicago
+Tuesday,2025-05-06,-1,9,Chicago
+Wednesday,2025-05-07,15,25,Houston
+Thursday,2025-05-08,-1,9,Los Angeles
+Friday,2025-05-09,5,18,Chicago
+Saturday,2025-05-10,1,21,Chicago
+Sunday,2025-05-11,-3,14,Los Angeles
+Monday,2025-05-12,7,26,Chicago
+Tuesday,2025-05-13,8,27,Houston
+Wednesday,2025-05-14,6,18,New York
+Thursday,2025-05-15,1,20,Chicago
+Friday,2025-05-16,-1,12,New York
+Saturday,2025-05-17,-6,5,New York
+Sunday,2025-05-18,-6,3,New York
+Monday,2025-05-19,-5,0,Phoenix
+Tuesday,2025-05-20,-5,14,Houston
+Wednesday,2025-05-21,15,29,Chicago
+Thursday,2025-05-22,4,15,Phoenix
+Friday,2025-05-23,-5,3,New York
+Saturday,2025-05-24,15,24,Los Angeles
+Sunday,2025-05-25,-7,11,Los Angeles
+Monday,2025-05-26,3,18,Los Angeles
+Tuesday,2025-05-27,14,28,Los Angeles
+Wednesday,2025-05-28,-10,-4,New York
+Thursday,2025-05-29,12,22,Houston
+Friday,2025-05-30,9,20,Chicago
+Saturday,2025-05-31,3,18,Los Angeles
+Sunday,2025-06-01,-5,2,New York
+Monday,2025-06-02,6,13,Los Angeles
+Tuesday,2025-06-03,-9,7,Phoenix
+Wednesday,2025-06-04,8,22,Houston
+Thursday,2025-06-05,0,5,Houston
+Friday,2025-06-06,-4,14,Chicago
+Saturday,2025-06-07,4,20,Houston
+Sunday,2025-06-08,-10,10,Los Angeles
+Monday,2025-06-09,7,24,New York
+Tuesday,2025-06-10,-3,16,Chicago
+Wednesday,2025-06-11,3,9,New York
+Thursday,2025-06-12,-2,7,Chicago
+Friday,2025-06-13,-7,13,New York
+Saturday,2025-06-14,15,34,Chicago
+Sunday,2025-06-15,-8,11,Chicago
+Monday,2025-06-16,9,15,Houston
+Tuesday,2025-06-17,10,15,Phoenix
+Wednesday,2025-06-18,-6,12,Los Angeles
+Thursday,2025-06-19,1,20,New York
+Friday,2025-06-20,-2,15,Chicago
+Saturday,2025-06-21,1,6,New York
+Sunday,2025-06-22,-1,10,Houston
+Monday,2025-06-23,-8,2,New York
+Tuesday,2025-06-24,11,28,Chicago
+Wednesday,2025-06-25,7,16,Chicago
+Thursday,2025-06-26,5,25,Chicago
+Friday,2025-06-27,-1,8,Phoenix
+Saturday,2025-06-28,0,5,New York
+Sunday,2025-06-29,-9,9,Phoenix
+Monday,2025-06-30,3,15,Phoenix
+Tuesday,2025-07-01,-7,2,New York
+Wednesday,2025-07-02,8,22,Phoenix
+Thursday,2025-07-03,-10,4,Houston
+Friday,2025-07-04,1,16,Los Angeles
+Saturday,2025-07-05,-3,8,Houston
+Sunday,2025-07-06,-7,13,New York
+Monday,2025-07-07,13,19,Chicago
+Tuesday,2025-07-08,3,12,Los Angeles
+Wednesday,2025-07-09,10,28,New York
+Thursday,2025-07-10,3,16,Phoenix
+Friday,2025-07-11,5,25,Los Angeles
+Saturday,2025-07-12,7,13,Los Angeles
+Sunday,2025-07-13,6,15,Phoenix
+Monday,2025-07-14,2,8,New York
+Tuesday,2025-07-15,3,11,Chicago
+Wednesday,2025-07-16,8,26,Chicago
+Thursday,2025-07-17,-9,1,Los Angeles
+Friday,2025-07-18,-7,-1,New York
+Saturday,2025-07-19,-6,14,Phoenix
+Sunday,2025-07-20,-2,12,Chicago
+Monday,2025-07-21,5,11,Phoenix
+Tuesday,2025-07-22,7,26,Phoenix
+Wednesday,2025-07-23,-5,14,Phoenix
+Thursday,2025-07-24,14,25,Houston
+Friday,2025-07-25,12,28,New York
+Saturday,2025-07-26,15,20,Chicago
+Sunday,2025-07-27,-3,4,New York
+Monday,2025-07-28,-1,15,Chicago
+Tuesday,2025-07-29,0,6,New York
+Wednesday,2025-07-30,2,9,Los Angeles
+Thursday,2025-07-31,0,9,Chicago
+Friday,2025-08-01,9,14,Phoenix
+Saturday,2025-08-02,7,21,Houston
+Sunday,2025-08-03,-1,5,Houston
+Monday,2025-08-04,12,21,Phoenix
+Tuesday,2025-08-05,-4,2,New York
+Wednesday,2025-08-06,-10,5,New York
+Thursday,2025-08-07,12,22,New York
+Friday,2025-08-08,14,25,Houston
+Saturday,2025-08-09,9,20,Houston
+Sunday,2025-08-10,15,25,Phoenix
+Monday,2025-08-11,8,14,Chicago
+Tuesday,2025-08-12,4,16,New York
+Wednesday,2025-08-13,9,28,Houston
+Thursday,2025-08-14,-5,10,New York
+Friday,2025-08-15,12,23,Chicago
+Saturday,2025-08-16,11,23,Chicago
+Sunday,2025-08-17,1,10,Chicago
+Monday,2025-08-18,-6,0,Phoenix
+Tuesday,2025-08-19,8,17,New York
+Wednesday,2025-08-20,3,10,Los Angeles
+Thursday,2025-08-21,1,13,Houston
+Friday,2025-08-22,12,27,Phoenix
+Saturday,2025-08-23,11,20,New York
+Sunday,2025-08-24,-8,4,Los Angeles
+Monday,2025-08-25,-9,-3,Phoenix
+Tuesday,2025-08-26,10,23,Los Angeles
+Wednesday,2025-08-27,5,21,Phoenix
+Thursday,2025-08-28,14,30,Houston
+Friday,2025-08-29,-6,0,Chicago
+Saturday,2025-08-30,11,31,New York
+Sunday,2025-08-31,8,28,Phoenix
+Monday,2025-09-01,13,22,Los Angeles
+Tuesday,2025-09-02,-3,10,Chicago
+Wednesday,2025-09-03,10,16,Los Angeles
+Thursday,2025-09-04,4,13,Houston
+Friday,2025-09-05,4,15,New York
+Saturday,2025-09-06,-9,11,Chicago
+Sunday,2025-09-07,13,27,Chicago
+Monday,2025-09-08,6,25,Chicago
+Tuesday,2025-09-09,7,14,Phoenix
+Wednesday,2025-09-10,2,18,Houston
+Thursday,2025-09-11,-1,9,Los Angeles
+Friday,2025-09-12,5,17,Phoenix
+Saturday,2025-09-13,3,14,Chicago
+Sunday,2025-09-14,-10,-1,Chicago
+Monday,2025-09-15,1,18,New York
+Tuesday,2025-09-16,-1,11,Los Angeles
+Wednesday,2025-09-17,-7,6,Phoenix
+Thursday,2025-09-18,10,22,New York
+Friday,2025-09-19,3,14,Los Angeles
+Saturday,2025-09-20,11,26,Los Angeles
+Sunday,2025-09-21,-6,7,New York
+Monday,2025-09-22,-8,1,Houston
+Tuesday,2025-09-23,15,30,Phoenix
+Wednesday,2025-09-24,15,35,Chicago
+Thursday,2025-09-25,2,22,Houston
+Friday,2025-09-26,0,13,Chicago
+Saturday,2025-09-27,7,25,Los Angeles
+Sunday,2025-09-28,-10,1,Phoenix
+Monday,2025-09-29,9,15,Chicago
+Tuesday,2025-09-30,-3,9,Los Angeles
+Wednesday,2025-10-01,11,17,Los Angeles
+Thursday,2025-10-02,2,10,Houston
+Friday,2025-10-03,-8,7,Chicago
+Saturday,2025-10-04,-9,8,Houston
+Sunday,2025-10-05,2,16,Phoenix
+Monday,2025-10-06,6,17,New York
+Tuesday,2025-10-07,-3,12,Houston
+Wednesday,2025-10-08,3,18,Phoenix
+Thursday,2025-10-09,3,13,New York
+Friday,2025-10-10,10,15,Phoenix
+Saturday,2025-10-11,-8,5,Los Angeles
+Sunday,2025-10-12,3,11,Chicago
+Monday,2025-10-13,1,13,Houston
+Tuesday,2025-10-14,15,21,Chicago
+Wednesday,2025-10-15,13,19,Phoenix
+Thursday,2025-10-16,9,27,Houston
+Friday,2025-10-17,1,20,Los Angeles
+Saturday,2025-10-18,9,25,Houston
+Sunday,2025-10-19,-7,-1,Phoenix
+Monday,2025-10-20,6,25,New York
+Tuesday,2025-10-21,5,12,Phoenix
+Wednesday,2025-10-22,10,30,Phoenix
+Thursday,2025-10-23,8,27,Houston
+Friday,2025-10-24,10,24,New York
+Saturday,2025-10-25,4,20,Houston
+Sunday,2025-10-26,2,13,Chicago
+Monday,2025-10-27,10,24,Houston
+Tuesday,2025-10-28,11,20,Phoenix
+Wednesday,2025-10-29,-4,15,Houston
+Thursday,2025-10-30,4,24,Houston
+Friday,2025-10-31,3,21,Los Angeles
+Saturday,2025-11-01,-5,14,New York
+Sunday,2025-11-02,-4,10,Los Angeles
+Monday,2025-11-03,12,17,Chicago
+Tuesday,2025-11-04,3,12,Los Angeles
+Wednesday,2025-11-05,-1,12,Phoenix
+Thursday,2025-11-06,8,16,Los Angeles
+Friday,2025-11-07,5,17,Los Angeles
+Saturday,2025-11-08,12,31,Houston
+Sunday,2025-11-09,13,30,Los Angeles
+Monday,2025-11-10,3,22,New York
+Tuesday,2025-11-11,-8,1,New York
+Wednesday,2025-11-12,-9,-1,Phoenix
+Thursday,2025-11-13,-10,-1,New York
+Friday,2025-11-14,-6,4,Phoenix
+Saturday,2025-11-15,-4,5,Houston
+Sunday,2025-11-16,14,28,Houston
+Monday,2025-11-17,14,27,Los Angeles
+Tuesday,2025-11-18,-7,5,New York
+Wednesday,2025-11-19,8,24,New York
+Thursday,2025-11-20,11,28,Los Angeles
+Friday,2025-11-21,3,8,Houston
+Saturday,2025-11-22,14,29,Phoenix
+Sunday,2025-11-23,10,15,Phoenix
+Monday,2025-11-24,10,25,Chicago
+Tuesday,2025-11-25,-8,-3,Los Angeles
+Wednesday,2025-11-26,-8,4,New York
+Thursday,2025-11-27,0,14,Houston
+Friday,2025-11-28,-1,4,Phoenix
+Saturday,2025-11-29,-6,13,Chicago
+Sunday,2025-11-30,0,15,Houston
+Monday,2025-12-01,1,12,New York
+Tuesday,2025-12-02,-2,18,Houston
+Wednesday,2025-12-03,14,34,New York
+Thursday,2025-12-04,-7,12,Chicago
+Friday,2025-12-05,12,20,New York
+Saturday,2025-12-06,9,22,New York
+Sunday,2025-12-07,0,18,Houston
+Monday,2025-12-08,6,11,New York
+Tuesday,2025-12-09,13,26,Houston
+Wednesday,2025-12-10,8,20,New York
+Thursday,2025-12-11,-7,6,Chicago
+Friday,2025-12-12,13,30,Houston
+Saturday,2025-12-13,1,18,Phoenix
+Sunday,2025-12-14,-7,0,New York
+Monday,2025-12-15,-2,16,Los Angeles
+Tuesday,2025-12-16,-6,3,Houston
+Wednesday,2025-12-17,14,32,Chicago
+Thursday,2025-12-18,0,19,Phoenix
+Friday,2025-12-19,-7,13,Los Angeles
+Saturday,2025-12-20,-7,6,Los Angeles
+Sunday,2025-12-21,-5,8,Los Angeles
+Monday,2025-12-22,-7,6,Phoenix
+Tuesday,2025-12-23,-1,9,Houston
+Wednesday,2025-12-24,1,9,New York
+Thursday,2025-12-25,13,21,Houston
+Friday,2025-12-26,-8,-1,Phoenix
+Saturday,2025-12-27,-1,15,Phoenix
+Sunday,2025-12-28,8,15,Chicago
+Monday,2025-12-29,-3,15,Los Angeles
+Tuesday,2025-12-30,-1,11,Chicago
+Wednesday,2025-12-31,-10,-4,Phoenix
+Thursday,2026-01-01,8,24,New York
+Friday,2026-01-02,5,11,Chicago
+Saturday,2026-01-03,15,34,Los Angeles
+Sunday,2026-01-04,0,12,Phoenix
+Monday,2026-01-05,-4,15,Phoenix
+Tuesday,2026-01-06,2,22,Houston
+Wednesday,2026-01-07,6,17,Phoenix
+Thursday,2026-01-08,10,26,New York
+Friday,2026-01-09,11,25,New York
+Saturday,2026-01-10,-8,9,Houston
+Sunday,2026-01-11,9,14,Houston
+Monday,2026-01-12,7,27,Los Angeles
+Tuesday,2026-01-13,14,27,New York
+Wednesday,2026-01-14,2,13,Houston
+Thursday,2026-01-15,13,18,New York
+Friday,2026-01-16,4,17,Houston
+Saturday,2026-01-17,-2,7,Los Angeles
+Sunday,2026-01-18,14,31,Los Angeles
+Monday,2026-01-19,-7,11,Phoenix
+Tuesday,2026-01-20,-8,0,Los Angeles
+Wednesday,2026-01-21,0,11,Phoenix
+Thursday,2026-01-22,-6,12,Los Angeles
+Friday,2026-01-23,-7,-2,Los Angeles
+Saturday,2026-01-24,10,28,Los Angeles
+Sunday,2026-01-25,-5,5,Phoenix
+Monday,2026-01-26,8,24,Los Angeles
+Tuesday,2026-01-27,12,31,Houston
+Wednesday,2026-01-28,1,8,Phoenix
+Thursday,2026-01-29,0,14,Chicago
+Friday,2026-01-30,14,27,Houston
+Saturday,2026-01-31,15,22,Houston
+Sunday,2026-02-01,-3,5,Chicago
+Monday,2026-02-02,1,18,Chicago
+Tuesday,2026-02-03,10,24,Los Angeles
+Wednesday,2026-02-04,3,21,Los Angeles
+Thursday,2026-02-05,9,25,New York
+Friday,2026-02-06,6,13,Los Angeles
+Saturday,2026-02-07,11,26,Phoenix
+Sunday,2026-02-08,8,24,New York
+Monday,2026-02-09,-4,16,Houston
+Tuesday,2026-02-10,12,19,Chicago
+Wednesday,2026-02-11,2,12,New York
+Thursday,2026-02-12,4,15,Los Angeles
+Friday,2026-02-13,-5,3,Phoenix
+Saturday,2026-02-14,7,14,Los Angeles
+Sunday,2026-02-15,12,17,Chicago
+Monday,2026-02-16,11,21,Chicago
+Tuesday,2026-02-17,1,6,Houston
+Wednesday,2026-02-18,9,17,New York
+Thursday,2026-02-19,2,11,New York
+Friday,2026-02-20,-1,7,Phoenix
+Saturday,2026-02-21,-8,10,New York
+Sunday,2026-02-22,15,34,Los Angeles
+Monday,2026-02-23,-3,12,Los Angeles
+Tuesday,2026-02-24,3,22,Phoenix
+Wednesday,2026-02-25,6,21,New York
+Thursday,2026-02-26,-2,10,Houston
+Friday,2026-02-27,10,15,Houston
+Saturday,2026-02-28,6,15,Chicago
+Sunday,2026-03-01,-6,11,Houston
+Monday,2026-03-02,-1,5,Chicago
+Tuesday,2026-03-03,-3,17,Los Angeles
+Wednesday,2026-03-04,-6,5,Houston
+Thursday,2026-03-05,-2,15,New York
+Friday,2026-03-06,-6,7,Chicago
+Saturday,2026-03-07,0,7,Chicago
+Sunday,2026-03-08,7,27,New York
+Monday,2026-03-09,4,15,Phoenix
+Tuesday,2026-03-10,-3,2,Chicago
+Wednesday,2026-03-11,14,29,Los Angeles
+Thursday,2026-03-12,-3,16,New York
+Friday,2026-03-13,4,22,New York
+Saturday,2026-03-14,11,28,New York
+Sunday,2026-03-15,0,14,Phoenix
+Monday,2026-03-16,12,23,New York
+Tuesday,2026-03-17,5,15,Los Angeles
+Wednesday,2026-03-18,-1,16,Houston
+Thursday,2026-03-19,8,25,Houston
+Friday,2026-03-20,4,12,Los Angeles
+Saturday,2026-03-21,4,9,Phoenix
+Sunday,2026-03-22,14,34,New York
+Monday,2026-03-23,11,24,New York
+Tuesday,2026-03-24,1,7,New York
+Wednesday,2026-03-25,8,25,Chicago
+Thursday,2026-03-26,4,16,Chicago
+Friday,2026-03-27,3,11,Los Angeles
+Saturday,2026-03-28,-3,12,Phoenix
+Sunday,2026-03-29,-7,8,Los Angeles
+Monday,2026-03-30,-3,17,Chicago
+Tuesday,2026-03-31,-7,0,Chicago
+Wednesday,2026-04-01,4,12,Phoenix
+Thursday,2026-04-02,9,15,Houston
+Friday,2026-04-03,3,19,Los Angeles
+Saturday,2026-04-04,15,35,Houston
+Sunday,2026-04-05,10,23,Chicago
+Monday,2026-04-06,15,27,Houston
+Tuesday,2026-04-07,1,19,Los Angeles
+Wednesday,2026-04-08,8,18,Chicago
+Thursday,2026-04-09,15,23,New York
+Friday,2026-04-10,12,22,Chicago
+Saturday,2026-04-11,1,11,New York
+Sunday,2026-04-12,2,7,Los Angeles
+Monday,2026-04-13,8,28,Chicago
+Tuesday,2026-04-14,2,18,Houston
+Wednesday,2026-04-15,5,18,Phoenix
+Thursday,2026-04-16,8,14,New York
+Friday,2026-04-17,-10,1,Phoenix
+Saturday,2026-04-18,4,15,Houston
+Sunday,2026-04-19,-10,9,Los Angeles
+Monday,2026-04-20,-9,7,Houston
+Tuesday,2026-04-21,-8,8,Houston
+Wednesday,2026-04-22,14,32,Los Angeles
+Thursday,2026-04-23,4,17,Houston
+Friday,2026-04-24,10,21,Los Angeles
+Saturday,2026-04-25,4,20,Chicago
+Sunday,2026-04-26,1,20,Phoenix
+Monday,2026-04-27,-1,10,Los Angeles
+Tuesday,2026-04-28,-6,2,Houston
+Wednesday,2026-04-29,15,20,New York
+Thursday,2026-04-30,1,10,Houston
+Friday,2026-05-01,2,9,Houston
+Saturday,2026-05-02,10,30,Phoenix
+Sunday,2026-05-03,7,26,Phoenix
+Monday,2026-05-04,10,17,New York
+Tuesday,2026-05-05,-3,13,New York
+Wednesday,2026-05-06,12,25,Chicago
+Thursday,2026-05-07,-1,15,Los Angeles
+Friday,2026-05-08,-3,4,Houston
+Saturday,2026-05-09,-4,16,Chicago
+Sunday,2026-05-10,-4,16,New York
+Monday,2026-05-11,5,23,Houston
+Tuesday,2026-05-12,10,28,Houston
+Wednesday,2026-05-13,15,31,Chicago
+Thursday,2026-05-14,-9,3,Los Angeles
+Friday,2026-05-15,15,31,Phoenix
+Saturday,2026-05-16,3,18,Los Angeles
+Sunday,2026-05-17,6,26,New York
+Monday,2026-05-18,13,30,New York
+Tuesday,2026-05-19,14,21,New York
+Wednesday,2026-05-20,-1,13,New York
+Thursday,2026-05-21,13,29,Houston
+Friday,2026-05-22,10,17,New York
+Saturday,2026-05-23,-2,8,Phoenix
+Sunday,2026-05-24,-9,6,Houston
+Monday,2026-05-25,-9,3,Los Angeles
+Tuesday,2026-05-26,-1,4,Phoenix
+Wednesday,2026-05-27,0,16,Houston
+Thursday,2026-05-28,4,13,Chicago
+Friday,2026-05-29,15,22,Houston
+Saturday,2026-05-30,-10,9,Houston
+Sunday,2026-05-31,-3,16,Houston
+Monday,2026-06-01,14,31,Chicago
+Tuesday,2026-06-02,3,17,Houston
+Wednesday,2026-06-03,8,27,New York
+Thursday,2026-06-04,-7,0,Phoenix
+Friday,2026-06-05,8,28,Chicago
+Saturday,2026-06-06,8,26,Chicago
+Sunday,2026-06-07,9,26,Phoenix
+Monday,2026-06-08,13,29,Phoenix
+Tuesday,2026-06-09,-6,2,Phoenix
+Wednesday,2026-06-10,15,25,New York
+Thursday,2026-06-11,11,26,Phoenix
+Friday,2026-06-12,-3,4,Houston
+Saturday,2026-06-13,9,25,Phoenix
+Sunday,2026-06-14,15,34,New York
+Monday,2026-06-15,6,14,Los Angeles
+Tuesday,2026-06-16,3,12,New York
+Wednesday,2026-06-17,-10,-2,Los Angeles
+Thursday,2026-06-18,9,23,Phoenix
+Friday,2026-06-19,11,20,Houston
+Saturday,2026-06-20,-7,8,New York
+Sunday,2026-06-21,8,21,Houston
+Monday,2026-06-22,6,13,Phoenix
+Tuesday,2026-06-23,3,19,New York
+Wednesday,2026-06-24,0,20,Houston
+Thursday,2026-06-25,-9,-3,Houston
+Friday,2026-06-26,12,20,Houston
+Saturday,2026-06-27,7,14,New York
+Sunday,2026-06-28,2,20,New York
+Monday,2026-06-29,7,26,Houston
+Tuesday,2026-06-30,-7,12,Phoenix
+Wednesday,2026-07-01,13,28,New York
+Thursday,2026-07-02,12,32,New York
+Friday,2026-07-03,1,12,Chicago
+Saturday,2026-07-04,-7,2,Chicago
+Sunday,2026-07-05,0,18,Houston
+Monday,2026-07-06,4,15,Phoenix
+Tuesday,2026-07-07,-1,11,New York
+Wednesday,2026-07-08,9,28,Chicago
+Thursday,2026-07-09,13,23,Houston
+Friday,2026-07-10,-2,10,Los Angeles
+Saturday,2026-07-11,8,24,Los Angeles
+Sunday,2026-07-12,8,20,New York
+Monday,2026-07-13,-5,8,Phoenix
+Tuesday,2026-07-14,4,11,Los Angeles
+Wednesday,2026-07-15,-9,6,Phoenix
+Thursday,2026-07-16,-5,15,Houston
+Friday,2026-07-17,-2,9,Los Angeles
+Saturday,2026-07-18,15,25,Phoenix
+Sunday,2026-07-19,-8,3,Los Angeles
+Monday,2026-07-20,-8,12,Houston
+Tuesday,2026-07-21,3,9,Houston
+Wednesday,2026-07-22,7,23,New York
+Thursday,2026-07-23,15,23,Chicago
+Friday,2026-07-24,10,24,Phoenix
+Saturday,2026-07-25,13,27,Chicago
+Sunday,2026-07-26,5,10,Los Angeles
+Monday,2026-07-27,13,29,Chicago
+Tuesday,2026-07-28,-9,5,Houston
+Wednesday,2026-07-29,-3,2,New York
+Thursday,2026-07-30,-3,17,New York
+Friday,2026-07-31,-7,6,Phoenix
+Saturday,2026-08-01,4,10,Los Angeles
+Sunday,2026-08-02,9,23,New York
+Monday,2026-08-03,9,17,Houston
+Tuesday,2026-08-04,9,23,New York
+Wednesday,2026-08-05,-7,4,Phoenix
+Thursday,2026-08-06,12,18,Los Angeles
+Friday,2026-08-07,15,33,New York
+Saturday,2026-08-08,3,18,Phoenix
+Sunday,2026-08-09,-3,7,Phoenix
+Monday,2026-08-10,-2,12,Phoenix
+Tuesday,2026-08-11,4,13,Houston
+Wednesday,2026-08-12,-9,-1,Chicago
+Thursday,2026-08-13,7,23,Chicago
+Friday,2026-08-14,-4,16,Phoenix
+Saturday,2026-08-15,-2,9,Chicago
+Sunday,2026-08-16,13,25,New York
+Monday,2026-08-17,-2,15,Los Angeles
+Tuesday,2026-08-18,11,31,Los Angeles
+Wednesday,2026-08-19,15,26,Houston
+Thursday,2026-08-20,13,25,Chicago
+Friday,2026-08-21,-5,4,New York
+Saturday,2026-08-22,-6,1,Los Angeles
+Sunday,2026-08-23,4,9,Chicago
+Monday,2026-08-24,-5,5,New York
+Tuesday,2026-08-25,8,23,Chicago
+Wednesday,2026-08-26,15,20,Phoenix
+Thursday,2026-08-27,0,6,Los Angeles
+Friday,2026-08-28,-6,12,Houston
+Saturday,2026-08-29,1,11,New York
+Sunday,2026-08-30,8,20,New York
+Monday,2026-08-31,-3,17,New York
+Tuesday,2026-09-01,15,22,Phoenix
+Wednesday,2026-09-02,-10,4,Los Angeles
+Thursday,2026-09-03,1,18,Houston
+Friday,2026-09-04,-4,8,New York
+Saturday,2026-09-05,-7,12,Houston
+Sunday,2026-09-06,14,21,Los Angeles
+Monday,2026-09-07,3,10,Houston
+Tuesday,2026-09-08,2,13,Chicago
+Wednesday,2026-09-09,-3,8,Houston
+Thursday,2026-09-10,2,17,Chicago
+Friday,2026-09-11,-5,0,Houston
+Saturday,2026-09-12,1,19,Chicago
+Sunday,2026-09-13,5,24,Los Angeles
+Monday,2026-09-14,-7,-2,Los Angeles
+Tuesday,2026-09-15,5,21,Houston
+Wednesday,2026-09-16,0,13,New York
+Thursday,2026-09-17,12,28,New York
+Friday,2026-09-18,1,21,Houston
+Saturday,2026-09-19,-2,3,Los Angeles
+Sunday,2026-09-20,0,5,Los Angeles
+Monday,2026-09-21,10,26,New York
+Tuesday,2026-09-22,15,28,Chicago
+Wednesday,2026-09-23,8,26,Houston
+Thursday,2026-09-24,6,19,Phoenix
+Friday,2026-09-25,6,18,Los Angeles
+Saturday,2026-09-26,0,17,Phoenix
+Sunday,2026-09-27,4,10,Chicago
+Monday,2026-09-28,13,23,Phoenix
+Tuesday,2026-09-29,12,20,Chicago
+Wednesday,2026-09-30,15,27,Los Angeles
+Thursday,2026-10-01,14,34,Houston
+Friday,2026-10-02,7,12,New York
+Saturday,2026-10-03,-9,-2,Phoenix
+Sunday,2026-10-04,-3,8,Phoenix
+Monday,2026-10-05,9,26,Phoenix
+Tuesday,2026-10-06,7,14,Chicago
+Wednesday,2026-10-07,8,26,Los Angeles
+Thursday,2026-10-08,11,30,Houston
+Friday,2026-10-09,10,21,Los Angeles
+Saturday,2026-10-10,-7,3,Chicago
+Sunday,2026-10-11,11,19,Los Angeles
+Monday,2026-10-12,12,28,New York
+Tuesday,2026-10-13,7,27,New York
+Wednesday,2026-10-14,-1,7,Houston
+Thursday,2026-10-15,-10,0,Phoenix
+Friday,2026-10-16,-1,12,Houston
+Saturday,2026-10-17,-7,5,Los Angeles
+Sunday,2026-10-18,8,24,Phoenix
+Monday,2026-10-19,5,17,Los Angeles
+Tuesday,2026-10-20,-2,5,Chicago
+Wednesday,2026-10-21,12,26,Chicago
+Thursday,2026-10-22,4,24,Chicago
+Friday,2026-10-23,12,20,New York
+Saturday,2026-10-24,1,15,Houston
+Sunday,2026-10-25,14,28,Chicago
+Monday,2026-10-26,8,13,Houston
+Tuesday,2026-10-27,-6,3,Houston
+Wednesday,2026-10-28,13,28,New York
+Thursday,2026-10-29,-3,13,Houston
+Friday,2026-10-30,-2,11,New York
+Saturday,2026-10-31,-1,11,Los Angeles
+Sunday,2026-11-01,12,17,Phoenix
+Monday,2026-11-02,15,26,Los Angeles
+Tuesday,2026-11-03,10,26,Houston
+Wednesday,2026-11-04,-2,3,Chicago
+Thursday,2026-11-05,7,24,Houston
+Friday,2026-11-06,-9,-2,Phoenix
+Saturday,2026-11-07,8,21,Chicago
+Sunday,2026-11-08,-7,0,New York
+Monday,2026-11-09,2,18,New York
+Tuesday,2026-11-10,3,11,New York
+Wednesday,2026-11-11,7,27,Los Angeles
+Thursday,2026-11-12,15,28,New York
+Friday,2026-11-13,-4,9,Phoenix
+Saturday,2026-11-14,10,30,Houston
+Sunday,2026-11-15,6,16,Chicago
+Monday,2026-11-16,9,15,Phoenix
+Tuesday,2026-11-17,-4,14,Chicago
+Wednesday,2026-11-18,1,10,Phoenix
+Thursday,2026-11-19,-9,8,Houston
+Friday,2026-11-20,-5,0,New York
+Saturday,2026-11-21,12,19,Phoenix
+Sunday,2026-11-22,-9,5,Houston
+Monday,2026-11-23,-5,10,Phoenix
+Tuesday,2026-11-24,6,17,Los Angeles
+Wednesday,2026-11-25,6,12,Chicago
+Thursday,2026-11-26,7,21,Los Angeles
+Friday,2026-11-27,3,19,Houston
+Saturday,2026-11-28,9,24,New York
+Sunday,2026-11-29,0,19,New York
+Monday,2026-11-30,3,17,Los Angeles
+Tuesday,2026-12-01,7,22,Houston
+Wednesday,2026-12-02,12,18,Phoenix
+Thursday,2026-12-03,-7,7,New York
+Friday,2026-12-04,-10,-3,Los Angeles
+Saturday,2026-12-05,-9,-3,New York
+Sunday,2026-12-06,-7,10,Phoenix
+Monday,2026-12-07,5,18,Houston
+Tuesday,2026-12-08,-10,3,Los Angeles
+Wednesday,2026-12-09,6,26,Chicago
+Thursday,2026-12-10,13,27,Houston
+Friday,2026-12-11,8,17,Phoenix
+Saturday,2026-12-12,13,19,Los Angeles
+Sunday,2026-12-13,0,19,New York
+Monday,2026-12-14,-6,8,New York
+Tuesday,2026-12-15,2,16,Chicago
+Wednesday,2026-12-16,3,18,Los Angeles
+Thursday,2026-12-17,-1,4,New York
+Friday,2026-12-18,13,27,Phoenix
+Saturday,2026-12-19,4,10,New York
+Sunday,2026-12-20,-6,3,Chicago
+Monday,2026-12-21,-6,11,Los Angeles
+Tuesday,2026-12-22,13,18,Los Angeles
+Wednesday,2026-12-23,-4,1,Chicago
+Thursday,2026-12-24,10,25,New York
+Friday,2026-12-25,-1,14,Phoenix
+Saturday,2026-12-26,4,9,New York
+Sunday,2026-12-27,-1,8,Houston
+Monday,2026-12-28,9,23,Phoenix
+Tuesday,2026-12-29,10,30,New York
+Wednesday,2026-12-30,-1,11,Chicago
+Thursday,2026-12-31,1,14,Los Angeles
+Friday,2027-01-01,-6,13,Phoenix
+Saturday,2027-01-02,10,16,Houston
+Sunday,2027-01-03,-1,11,New York
+Monday,2027-01-04,1,10,Phoenix
+Tuesday,2027-01-05,8,16,Phoenix
+Wednesday,2027-01-06,7,12,Houston
+Thursday,2027-01-07,0,20,Phoenix
+Friday,2027-01-08,4,20,Phoenix
+Saturday,2027-01-09,15,34,Houston
+Sunday,2027-01-10,-9,-1,Phoenix
+Monday,2027-01-11,9,19,Houston
+Tuesday,2027-01-12,-3,15,Houston
+Wednesday,2027-01-13,15,20,Los Angeles
+Thursday,2027-01-14,3,21,Los Angeles
+Friday,2027-01-15,7,27,Los Angeles
+Saturday,2027-01-16,0,10,Houston
+Sunday,2027-01-17,-8,-2,Phoenix
+Monday,2027-01-18,-9,9,Chicago
+Tuesday,2027-01-19,-1,4,Chicago
+Wednesday,2027-01-20,0,18,Los Angeles
+Thursday,2027-01-21,12,31,New York
+Friday,2027-01-22,-10,-5,Houston
+Saturday,2027-01-23,-2,5,New York
+Sunday,2027-01-24,7,23,Houston
+Monday,2027-01-25,-10,-2,Phoenix
+Tuesday,2027-01-26,-9,10,Los Angeles
+Wednesday,2027-01-27,-4,10,Chicago
+Thursday,2027-01-28,9,15,New York
+Friday,2027-01-29,-2,15,Phoenix
+Saturday,2027-01-30,-5,6,Phoenix
+Sunday,2027-01-31,2,15,Houston
+Monday,2027-02-01,-5,0,Houston
+Tuesday,2027-02-02,11,16,Houston
+Wednesday,2027-02-03,-4,13,Houston
+Thursday,2027-02-04,-5,9,Houston
+Friday,2027-02-05,-10,9,Chicago
+Saturday,2027-02-06,-7,12,Phoenix
+Sunday,2027-02-07,5,13,Los Angeles
+Monday,2027-02-08,1,16,Houston
+Tuesday,2027-02-09,-10,2,Phoenix
+Wednesday,2027-02-10,0,7,New York
+Thursday,2027-02-11,-3,10,New York
+Friday,2027-02-12,1,14,Phoenix
+Saturday,2027-02-13,5,22,Houston
+Sunday,2027-02-14,12,32,Phoenix
+Monday,2027-02-15,8,25,Los Angeles
+Tuesday,2027-02-16,9,15,Los Angeles
+Wednesday,2027-02-17,-5,10,New York
+Thursday,2027-02-18,9,16,New York
+Friday,2027-02-19,0,12,Houston
+Saturday,2027-02-20,8,25,Houston
+Sunday,2027-02-21,5,14,Los Angeles
+Monday,2027-02-22,1,11,Phoenix
+Tuesday,2027-02-23,5,24,New York
+Wednesday,2027-02-24,-1,15,Chicago
+Thursday,2027-02-25,-5,13,New York
+Friday,2027-02-26,2,10,New York
+Saturday,2027-02-27,15,34,New York
+Sunday,2027-02-28,-8,8,Los Angeles
+Monday,2027-03-01,1,7,Houston
+Tuesday,2027-03-02,-6,12,Chicago
+Wednesday,2027-03-03,9,29,New York
+Thursday,2027-03-04,1,12,Los Angeles
+Friday,2027-03-05,9,21,Chicago
+Saturday,2027-03-06,-4,5,Los Angeles
+Sunday,2027-03-07,6,21,Chicago
+Monday,2027-03-08,12,30,Los Angeles
+Tuesday,2027-03-09,7,17,Chicago
+Wednesday,2027-03-10,15,35,Phoenix
+Thursday,2027-03-11,12,30,Los Angeles
+Friday,2027-03-12,-5,7,Chicago
+Saturday,2027-03-13,9,27,Los Angeles
+Sunday,2027-03-14,10,15,New York
+Monday,2027-03-15,9,18,Chicago
+Tuesday,2027-03-16,6,23,Houston
+Wednesday,2027-03-17,12,30,Houston
+Thursday,2027-03-18,-10,-5,Phoenix
+Friday,2027-03-19,-10,-1,Phoenix
+Saturday,2027-03-20,1,7,Los Angeles
+Sunday,2027-03-21,15,20,Los Angeles
+Monday,2027-03-22,-2,17,Phoenix
+Tuesday,2027-03-23,3,21,Chicago
+Wednesday,2027-03-24,6,11,Houston
+Thursday,2027-03-25,1,6,Houston
+Friday,2027-03-26,6,14,Houston
+Saturday,2027-03-27,-8,0,Phoenix
+Sunday,2027-03-28,14,31,Phoenix
+Monday,2027-03-29,9,29,Chicago
+Tuesday,2027-03-30,3,20,Phoenix
+Wednesday,2027-03-31,6,26,Phoenix
+Thursday,2027-04-01,6,22,New York
+Friday,2027-04-02,-4,13,Phoenix
+Saturday,2027-04-03,12,23,Chicago
+Sunday,2027-04-04,11,18,New York
+Monday,2027-04-05,11,23,New York
+Tuesday,2027-04-06,1,18,Los Angeles
+Wednesday,2027-04-07,11,27,Houston
+Thursday,2027-04-08,12,28,Chicago
+Friday,2027-04-09,1,16,New York
+Saturday,2027-04-10,-2,9,Houston
+Sunday,2027-04-11,11,24,Phoenix
+Monday,2027-04-12,-8,8,Houston
+Tuesday,2027-04-13,15,27,Chicago
+Wednesday,2027-04-14,-2,8,Los Angeles
+Thursday,2027-04-15,-8,5,Los Angeles
+Friday,2027-04-16,10,25,Chicago
+Saturday,2027-04-17,10,27,Los Angeles
+Sunday,2027-04-18,7,18,Houston
+Monday,2027-04-19,4,14,Phoenix
+Tuesday,2027-04-20,10,24,New York
+Wednesday,2027-04-21,-4,7,New York
+Thursday,2027-04-22,-2,8,Phoenix
+Friday,2027-04-23,-3,2,Phoenix
+Saturday,2027-04-24,3,17,Los Angeles
+Sunday,2027-04-25,-7,12,New York
+Monday,2027-04-26,1,12,New York
+Tuesday,2027-04-27,0,8,Los Angeles
+Wednesday,2027-04-28,6,23,Chicago
+Thursday,2027-04-29,3,12,Los Angeles
+Friday,2027-04-30,-3,10,New York
+Saturday,2027-05-01,-2,7,New York
+Sunday,2027-05-02,-5,6,Houston
+Monday,2027-05-03,-1,18,Phoenix
+Tuesday,2027-05-04,13,24,Los Angeles
+Wednesday,2027-05-05,15,25,Los Angeles
+Thursday,2027-05-06,14,28,Phoenix
+Friday,2027-05-07,12,21,Los Angeles
+Saturday,2027-05-08,14,30,Chicago
+Sunday,2027-05-09,-7,7,Phoenix
+Monday,2027-05-10,-1,6,Los Angeles
+Tuesday,2027-05-11,13,21,New York
+Wednesday,2027-05-12,1,6,Houston
+Thursday,2027-05-13,12,32,Los Angeles
+Friday,2027-05-14,9,24,Phoenix
+Saturday,2027-05-15,14,21,Houston
+Sunday,2027-05-16,15,30,Chicago
+Monday,2027-05-17,14,23,Chicago
+Tuesday,2027-05-18,3,16,Los Angeles
+Wednesday,2027-05-19,-2,8,Chicago
+Thursday,2027-05-20,10,30,New York
+Friday,2027-05-21,11,16,Houston
+Saturday,2027-05-22,13,18,Houston
+Sunday,2027-05-23,-9,3,Chicago
+Monday,2027-05-24,3,16,Houston
+Tuesday,2027-05-25,-7,6,Los Angeles
+Wednesday,2027-05-26,-2,11,Chicago
+Thursday,2027-05-27,10,22,Chicago
+Friday,2027-05-28,13,20,Chicago
+Saturday,2027-05-29,12,18,Phoenix
+Sunday,2027-05-30,-8,-1,Chicago
+Monday,2027-05-31,-6,11,Houston
+Tuesday,2027-06-01,5,19,Phoenix
+Wednesday,2027-06-02,-3,11,Houston
+Thursday,2027-06-03,12,31,Chicago
+Friday,2027-06-04,-2,4,New York
+Saturday,2027-06-05,-5,5,Los Angeles
+Sunday,2027-06-06,-9,9,Phoenix
+Monday,2027-06-07,10,27,New York
+Tuesday,2027-06-08,13,20,Chicago
+Wednesday,2027-06-09,4,23,Houston
+Thursday,2027-06-10,5,24,Houston
+Friday,2027-06-11,7,18,Phoenix
+Saturday,2027-06-12,10,21,New York
+Sunday,2027-06-13,9,21,Chicago
+Monday,2027-06-14,9,23,Houston
+Tuesday,2027-06-15,-4,5,Phoenix
+Wednesday,2027-06-16,-9,10,Phoenix
+Thursday,2027-06-17,8,26,New York
+Friday,2027-06-18,10,28,Houston
+Saturday,2027-06-19,-10,10,Phoenix
+Sunday,2027-06-20,14,19,Phoenix
+Monday,2027-06-21,-2,3,Houston
+Tuesday,2027-06-22,11,31,Phoenix
+Wednesday,2027-06-23,-5,11,Chicago
+Thursday,2027-06-24,0,18,Houston
+Friday,2027-06-25,-10,1,Houston
+Saturday,2027-06-26,13,31,Houston
+Sunday,2027-06-27,8,26,Phoenix
+Monday,2027-06-28,2,21,Los Angeles
+Tuesday,2027-06-29,5,19,New York
+Wednesday,2027-06-30,1,18,Chicago
+Thursday,2027-07-01,12,31,New York
+Friday,2027-07-02,-10,5,Houston
+Saturday,2027-07-03,2,16,Phoenix
+Sunday,2027-07-04,-7,9,Houston
+Monday,2027-07-05,-8,11,Phoenix
+Tuesday,2027-07-06,4,17,Chicago
+Wednesday,2027-07-07,-7,13,Chicago
+Thursday,2027-07-08,8,17,Phoenix
+Friday,2027-07-09,3,22,New York
+Saturday,2027-07-10,11,18,Phoenix
+Sunday,2027-07-11,3,13,New York
+Monday,2027-07-12,-6,3,Phoenix
+Tuesday,2027-07-13,-1,6,New York
+Wednesday,2027-07-14,14,26,Los Angeles
+Thursday,2027-07-15,13,25,Los Angeles
+Friday,2027-07-16,-2,12,Chicago
+Saturday,2027-07-17,11,22,Los Angeles
+Sunday,2027-07-18,9,27,Los Angeles
+Monday,2027-07-19,1,16,Phoenix
+Tuesday,2027-07-20,8,13,Los Angeles
+Wednesday,2027-07-21,-6,0,Phoenix
+Thursday,2027-07-22,1,16,Phoenix
+Friday,2027-07-23,2,7,Houston
+Saturday,2027-07-24,1,18,Chicago
+Sunday,2027-07-25,15,26,Los Angeles
+Monday,2027-07-26,-2,8,Los Angeles
+Tuesday,2027-07-27,9,28,Chicago
+Wednesday,2027-07-28,11,23,Los Angeles
+Thursday,2027-07-29,-9,1,Houston
+Friday,2027-07-30,-6,2,Phoenix
+Saturday,2027-07-31,-9,-1,Chicago
+Sunday,2027-08-01,2,13,Chicago
+Monday,2027-08-02,-1,4,Los Angeles
+Tuesday,2027-08-03,-10,0,New York
+Wednesday,2027-08-04,0,7,Los Angeles
+Thursday,2027-08-05,6,21,New York
+Friday,2027-08-06,12,30,Houston
+Saturday,2027-08-07,-1,4,Chicago
+Sunday,2027-08-08,10,28,New York
+Monday,2027-08-09,3,19,New York
+Tuesday,2027-08-10,1,13,Phoenix
+Wednesday,2027-08-11,-6,3,Houston
+Thursday,2027-08-12,-6,7,Phoenix
+Friday,2027-08-13,13,33,Houston
+Saturday,2027-08-14,-6,12,Phoenix
+Sunday,2027-08-15,12,24,Los Angeles
+Monday,2027-08-16,15,25,Los Angeles
+Tuesday,2027-08-17,-1,5,Los Angeles
+Wednesday,2027-08-18,-7,9,Houston
+Thursday,2027-08-19,11,18,Chicago
+Friday,2027-08-20,-3,5,Houston
+Saturday,2027-08-21,-2,9,Phoenix
+Sunday,2027-08-22,0,20,New York
+Monday,2027-08-23,-6,12,Houston
+Tuesday,2027-08-24,-8,5,Houston
+Wednesday,2027-08-25,-1,7,New York
+Thursday,2027-08-26,8,16,Los Angeles
+Friday,2027-08-27,5,13,Chicago
+Saturday,2027-08-28,6,22,Chicago
+Sunday,2027-08-29,-7,0,Los Angeles
+Monday,2027-08-30,-10,2,New York
+Tuesday,2027-08-31,9,21,Houston
+Wednesday,2027-09-01,13,33,Phoenix
+Thursday,2027-09-02,-2,12,New York
+Friday,2027-09-03,-10,-1,Chicago
+Saturday,2027-09-04,-7,10,Houston
+Sunday,2027-09-05,10,19,Los Angeles
+Monday,2027-09-06,3,20,Houston
+Tuesday,2027-09-07,-8,2,Phoenix
+Wednesday,2027-09-08,-8,9,New York
+Thursday,2027-09-09,-5,3,New York
+Friday,2027-09-10,-3,3,New York
+Saturday,2027-09-11,-4,15,Houston
+Sunday,2027-09-12,-2,14,Los Angeles
+Monday,2027-09-13,3,21,Los Angeles
+Tuesday,2027-09-14,-9,11,Los Angeles
+Wednesday,2027-09-15,4,10,Chicago
+Thursday,2027-09-16,9,17,Houston
+Friday,2027-09-17,3,9,New York
+Saturday,2027-09-18,2,15,Chicago
+Sunday,2027-09-19,-9,7,Houston
+Monday,2027-09-20,1,10,Phoenix
+Tuesday,2027-09-21,-8,6,Los Angeles
+Wednesday,2027-09-22,-2,11,Phoenix
+Thursday,2027-09-23,-10,6,Houston
+Friday,2027-09-24,8,14,Phoenix
+Saturday,2027-09-25,10,29,New York
+Sunday,2027-09-26,2,17,New York
+Monday,2027-09-27,-2,13,Phoenix
