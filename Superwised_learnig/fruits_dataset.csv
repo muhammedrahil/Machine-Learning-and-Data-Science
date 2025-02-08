@@ -1,0 +1,101 @@
+fruit_label,fruit_name,fruit_subtype,mass,width,height,color_score
+1,Apple,Granny Smith,159.3,6.7,7.6,0.79
+4,Mandarin,Satsuma,82.6,4.9,4.2,0.93
+4,Mandarin,Satsuma,91.8,5.1,4.8,0.98
+3,Orange,Valencia,179.4,7.5,8.7,0.83
+1,Apple,Gala,169.5,6.6,7.1,0.9
+3,Orange,Navel,184.1,7.3,7.8,0.84
+2,Lemon,Lisbon,127.4,6.3,5.7,0.95
+3,Orange,Valencia,174.0,7.1,8.4,0.9
+3,Orange,Navel,203.1,7.8,7.3,0.83
+2,Lemon,Lisbon,131.6,6.4,6.1,0.9
+4,Mandarin,Clementine,87.3,4.7,4.4,0.92
+2,Lemon,Lisbon,124.8,6.2,5.2,0.92
+4,Mandarin,Satsuma,94.1,4.7,4.5,1.01
+4,Mandarin,Satsuma,85.0,4.8,4.8,0.92
+1,Apple,Fuji,193.1,7.2,7.7,0.89
+3,Orange,Navel,188.5,7.5,8.6,0.86
+1,Apple,Gala,155.3,6.5,7.7,0.84
+3,Orange,Valencia,205.1,7.3,7.7,0.91
+4,Mandarin,Satsuma,89.9,5.3,4.9,0.93
+1,Apple,Gala,172.5,6.7,6.9,0.85
+4,Mandarin,Clementine,85.5,5.3,4.8,0.9
+1,Apple,Granny Smith,182.4,7.1,7.6,0.78
+1,Apple,Granny Smith,168.7,6.5,7.2,0.79
+2,Lemon,Lisbon,131.3,6.3,5.7,0.87
+2,Lemon,Lisbon,128.2,6.0,5.4,0.9
+1,Apple,Gala,164.3,7.2,7.6,0.82
+3,Orange,Navel,199.5,6.9,7.8,0.89
+2,Lemon,Lisbon,113.7,5.7,5.8,0.87
+4,Mandarin,Clementine,90.4,5.3,4.5,0.91
+4,Mandarin,Clementine,92.6,4.5,4.5,0.96
+2,Lemon,Eureka,126.0,6.1,5.7,0.94
+3,Orange,Valencia,208.8,7.6,8.1,0.87
+1,Apple,Granny Smith,167.1,6.4,7.2,0.77
+2,Lemon,Eureka,104.6,6.0,5.0,0.88
+1,Apple,Fuji,195.1,6.7,8.0,0.86
+2,Lemon,Eureka,116.9,6.1,5.9,0.93
+2,Lemon,Eureka,122.6,6.2,5.2,0.88
+3,Orange,Valencia,184.5,7.3,8.8,0.83
+1,Apple,Granny Smith,160.5,7.3,8.5,0.74
+2,Lemon,Eureka,108.8,5.7,5.4,0.9
+2,Lemon,Eureka,124.7,5.3,5.8,0.95
+1,Apple,Granny Smith,160.2,7.7,8.5,0.81
+2,Lemon,Eureka,108.3,5.8,5.2,0.91
+1,Apple,Fuji,169.8,6.6,8.2,0.89
+4,Mandarin,Clementine,81.3,5.0,4.7,0.98
+4,Mandarin,Clementine,79.1,4.6,4.9,0.96
+4,Mandarin,Satsuma,82.1,4.8,4.2,0.96
+4,Mandarin,Satsuma,83.8,5.5,4.2,0.93
+1,Apple,Granny Smith,182.2,6.6,7.4,0.8
+2,Lemon,Eureka,117.8,5.3,5.0,0.93
+4,Mandarin,Satsuma,86.7,4.8,4.8,0.94
+2,Lemon,Lisbon,117.5,6.2,5.5,0.89
+1,Apple,Granny Smith,158.7,7.2,8.1,0.74
+4,Mandarin,Satsuma,84.8,4.8,5.0,1.0
+2,Lemon,Eureka,113.0,5.4,5.9,0.94
+4,Mandarin,Satsuma,81.1,5.3,4.4,0.98
+1,Apple,Gala,155.3,7.3,8.0,0.83
+2,Lemon,Lisbon,122.5,6.3,5.4,0.92
+2,Lemon,Lisbon,120.1,5.7,6.2,0.87
+3,Orange,Valencia,202.5,6.7,7.9,0.84
+2,Lemon,Lisbon,111.9,5.9,5.9,0.92
+1,Apple,Granny Smith,161.0,7.5,8.6,0.77
+3,Orange,Navel,203.3,7.0,7.4,0.83
+1,Apple,Fuji,196.5,6.9,8.0,0.82
+4,Mandarin,Satsuma,96.9,4.9,4.7,0.93
+2,Lemon,Eureka,124.5,6.4,5.8,0.96
+1,Apple,Fuji,170.3,7.9,8.9,0.84
+2,Lemon,Eureka,110.6,6.1,5.1,0.95
+4,Mandarin,Clementine,80.3,5.1,4.5,0.93
+2,Lemon,Eureka,109.6,6.0,5.4,0.9
+1,Apple,Granny Smith,192.4,6.7,8.2,0.76
+4,Mandarin,Satsuma,87.0,4.5,4.9,0.94
+2,Lemon,Lisbon,108.9,6.1,5.5,0.94
+3,Orange,Valencia,194.0,7.4,8.0,0.88
+2,Lemon,Lisbon,109.1,5.9,5.7,0.94
+2,Lemon,Eureka,112.8,5.3,5.7,0.9
+3,Orange,Navel,206.5,6.9,8.6,0.85
+3,Orange,Valencia,183.4,7.7,8.3,0.84
+3,Orange,Valencia,196.7,8.0,8.4,0.85
+4,Mandarin,Satsuma,96.0,4.8,4.3,0.99
+3,Orange,Navel,198.6,7.4,7.5,0.85
+1,Apple,Gala,168.2,6.5,7.8,0.87
+1,Apple,Granny Smith,187.2,7.4,8.3,0.75
+2,Lemon,Eureka,107.8,5.3,6.0,0.93
+1,Apple,Granny Smith,174.4,7.5,8.1,0.79
+3,Orange,Valencia,189.8,7.0,8.5,0.83
+1,Apple,Granny Smith,185.8,6.6,8.5,0.79
+4,Mandarin,Clementine,77.4,4.6,4.8,0.95
+4,Mandarin,Clementine,87.8,5.3,4.6,0.99
+4,Mandarin,Clementine,86.9,5.0,4.5,0.98
+4,Mandarin,Satsuma,89.0,4.7,4.9,0.96
+2,Lemon,Eureka,123.9,5.5,5.8,0.92
+2,Lemon,Eureka,110.8,5.3,5.3,0.9
+3,Orange,Navel,215.7,6.9,7.4,0.84
+1,Apple,Gala,169.7,6.2,7.5,0.86
+3,Orange,Valencia,173.4,7.9,8.0,0.89
+1,Apple,Fuji,195.0,7.7,8.2,0.81
+3,Orange,Navel,191.9,7.3,8.6,0.88
+4,Mandarin,Satsuma,94.5,5.0,4.7,0.93
+2,Lemon,Eureka,110.7,5.8,5.4,0.94
